@@ -1,0 +1,21 @@
+Wellcome to trolscript
+Rules:
+No Profanity
+(The Log Does Not Censor Please do not curse)
+Trolling Only in your private server
+Abide To The Roblox Community Guidlines
+
+API:
+
+owner : Instance
+
+returns youre player object
+-----------------------------
+log(output: String): nil
+shows output on top of you as a chat bubble
+
+input(): String
+
+used to get the info from the input using the io window
+------------------------------
+tsapi (TrollScript Api) (soon)
